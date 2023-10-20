@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "아이디어/아이디어 취합_Subin.md",
+                "file": "아이디어/청소년증 인식 확장 및 활성화 서비스.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "05de235a217d8e5d",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "아이디어/아이디어 취합_Subin.md",
+                "file": "아이디어/청소년증 인식 확장 및 활성화 서비스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "아이디어/아이디어 취합_Subin.md",
+                "file": "아이디어/청소년증 인식 확장 및 활성화 서비스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아이디어/아이디어 취합_Subin.md"
+                "file": "아이디어/청소년증 인식 확장 및 활성화 서비스.md"
               }
             }
           }
@@ -146,22 +154,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6eb6027d647016c0",
+  "active": "aa095f0755e905c9",
   "lastOpenFiles": [
+    "FrontEnd/package.json",
+    "FrontEnd/package-lock.json",
+    "FrontEnd/babel.config.js",
+    "FrontEnd/assets/splash.png",
+    "FrontEnd/assets/icon.png",
+    "FrontEnd/assets/favicon.png",
+    "FrontEnd/assets/adaptive-icon.png",
+    "FrontEnd/assets",
+    "FrontEnd/app.json",
+    "FrontEnd/App.js",
+    "FrontEnd",
+    "etc/공모전 링크 및 팀원모집글.md",
+    "회의내용/10월17일_8시회의.md",
+    "아이디어/아이디어 취합_Subin.md",
+    "아이디어/청소년증 인식 확장 및 활성화 서비스.md",
+    "Pasted image 20231020134155.png",
+    "etc/팀원 정보.md",
+    "개발관련/Flutter.md",
+    "개발관련/React Native.md",
+    "디자인관련/디자인관련폴더입니다..md",
+    "기획관련/기획관련폴더입니다..md",
+    "Pasted image 20231020130607.png",
+    "public/Pasted image 20231017194926.png",
+    "README.md",
     "public",
     "public/Pasted image 20231017025048.png",
-    "회의내용/10월17일_8시회의.md",
-    "etc/공모전 링크 및 팀원모집글.md",
-    "etc/팀원 정보.md",
-    "아이디어/아이디어 취합_Subin.md",
-    "개발관련/React Native.md",
-    "기획관련/기획관련폴더입니다..md",
-    "디자인관련/디자인관련폴더입니다..md",
     "회의내용",
     "기획관련",
-    "디자인관련",
-    "개발관련",
-    "etc",
-    "아이디어"
+    "디자인관련"
   ]
 }
